@@ -1,3 +1,5 @@
+![logo](https://github.com/WPThemeSmith/WPThemeSmith/blob/main/Untitled%20design.png)
+
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
 <h3 align="center">WordPress Web developer and WordPress Themes & Plugins Developer</h3>
 
